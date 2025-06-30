@@ -221,6 +221,391 @@
         </div>
       </div>
     </div>
+
+    <!-- Catalunya & Barcelona Holidays Section -->
+    <div class="bg-gradient-to-br from-red-50 via-yellow-50 to-orange-50 py-16">
+      <div class="max-w-6xl mx-auto px-6">
+        <div class="text-center mb-12">
+          <div
+            class="inline-flex items-center px-4 py-2 bg-gradient-to-r from-red-100 to-yellow-100 text-red-800 rounded-full text-sm font-medium mb-6"
+          >
+            <span class="mr-2">🎉</span>
+            CATALUNYA HOLIDAYS
+          </div>
+
+          <h2 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+            When Barcelona
+            <span
+              class="bg-gradient-to-r from-red-600 to-orange-600 bg-clip-text text-transparent"
+            >
+              Takes a Break
+            </span>
+          </h2>
+
+          <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
+            Mark your calendar! 📅 These are the official holidays when shops
+            close, banks shut down, and the whole city celebrates. Plan
+            accordingly! 🇪🇸
+          </p>
+        </div>
+
+        <!-- Holiday Calendar Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+          <!-- New Year's Day -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-blue-500"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">🎊</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-blue-600">Jan 1</div>
+                <div class="text-sm text-gray-500">January</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">
+              New Year's Day
+            </h3>
+            <p class="text-gray-600 text-sm">
+              Día de Año Nuevo - Everything closes for the biggest hangover day
+              of the year!
+            </p>
+          </div>
+
+          <!-- Epiphany -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-purple-500"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">👑</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-purple-600">Jan 6</div>
+                <div class="text-sm text-gray-500">January</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">Epiphany</h3>
+            <p class="text-gray-600 text-sm">
+              Día de Reyes - The REAL Christmas in Spain! Kids get presents from
+              the Three Kings.
+            </p>
+          </div>
+
+          <!-- Good Friday -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-indigo-500"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">✝️</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-indigo-600">Apr 3</div>
+                <div class="text-sm text-gray-500">April</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">
+              Good Friday
+            </h3>
+            <p class="text-gray-600 text-sm">
+              Viernes Santo - Religious processions fill the streets. Very
+              solemn day.
+            </p>
+          </div>
+
+          <!-- Easter Monday -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-green-500"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">🐰</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-green-600">Apr 6</div>
+                <div class="text-sm text-gray-500">April</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">
+              Easter Monday
+            </h3>
+            <p class="text-gray-600 text-sm">
+              Lunes de Pascua - Extended Easter weekend. Perfect for beach
+              trips!
+            </p>
+          </div>
+
+          <!-- Labor Day -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-red-500"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">⚒️</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-red-600">May 1</div>
+                <div class="text-sm text-gray-500">May</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">Labor Day</h3>
+            <p class="text-gray-600 text-sm">
+              Día del Trabajo - Workers' rights celebration. Expect
+              demonstrations and closed shops.
+            </p>
+          </div>
+
+          <!-- Saint John's Day -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-yellow-500"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">🔥</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-yellow-600">Jun 24</div>
+                <div class="text-sm text-gray-500">June</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">
+              Saint John's Day
+            </h3>
+            <p class="text-gray-600 text-sm">
+              Sant Joan - EPIC beach bonfires! The most fun holiday in
+              Barcelona. Don't miss it!
+            </p>
+          </div>
+
+          <!-- Assumption -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-pink-500"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">🌟</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-pink-600">Aug 15</div>
+                <div class="text-sm text-gray-500">August</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">Assumption</h3>
+            <p class="text-gray-600 text-sm">
+              Asunción - Mid-August holiday. Many locals are on vacation anyway!
+            </p>
+          </div>
+
+          <!-- Catalan National Day -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-red-600"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">🏴</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-red-700">Sep 11</div>
+                <div class="text-sm text-gray-500">September</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">
+              Catalan National Day
+            </h3>
+            <p class="text-gray-600 text-sm">
+              Diada Nacional - HUGE political demonstrations. Very important for
+              Catalans!
+            </p>
+          </div>
+
+          <!-- Columbus Day -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-blue-600"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">⛵</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-blue-700">Oct 12</div>
+                <div class="text-sm text-gray-500">October</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">
+              Columbus Day
+            </h3>
+            <p class="text-gray-600 text-sm">
+              Día de la Hispanidad - Celebrating Spanish heritage and the
+              discovery of America.
+            </p>
+          </div>
+
+          <!-- Immaculate Conception -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-purple-600"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">🙏</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-purple-700">Dec 8</div>
+                <div class="text-sm text-gray-500">December</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">
+              Immaculate Conception
+            </h3>
+            <p class="text-gray-600 text-sm">
+              La Inmaculada - Religious holiday. Start of Christmas season
+              preparations!
+            </p>
+          </div>
+
+          <!-- Christmas Day -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-green-600"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">🎄</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-green-700">Dec 25</div>
+                <div class="text-sm text-gray-500">December</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">
+              Christmas Day
+            </h3>
+            <p class="text-gray-600 text-sm">
+              Navidad - Family time! But remember, the BIG celebration is on
+              January 6th.
+            </p>
+          </div>
+
+          <!-- Saint Stephen's Day -->
+          <div
+            class="group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-teal-500"
+          >
+            <div class="flex items-start justify-between mb-4">
+              <div class="text-3xl">🎁</div>
+              <div class="text-right">
+                <div class="text-2xl font-bold text-teal-600">Dec 26</div>
+                <div class="text-sm text-gray-500">December</div>
+              </div>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">
+              Saint Stephen's Day
+            </h3>
+            <p class="text-gray-600 text-sm">
+              Sant Esteve - Boxing Day equivalent. Extended Christmas
+              celebrations continue!
+            </p>
+          </div>
+        </div>
+
+        <!-- Holiday Tips Section -->
+        <div class="bg-white rounded-3xl p-8 lg:p-12 shadow-xl">
+          <div class="text-center mb-8">
+            <h3 class="text-2xl font-bold text-gray-900 mb-4">
+              🎯 Holiday Survival Tips
+            </h3>
+            <p class="text-gray-600">
+              What you need to know to navigate Barcelona during holidays
+            </p>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- Shopping Tip -->
+            <div class="text-center">
+              <div
+                class="w-16 h-16 bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl flex items-center justify-center mx-auto mb-4"
+              >
+                <svg
+                  class="w-8 h-8 text-white"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"
+                  ></path>
+                </svg>
+              </div>
+              <h4 class="text-lg font-semibold text-gray-900 mb-2">
+                Stock Up Before
+              </h4>
+              <p class="text-gray-600 text-sm">
+                Buy groceries and essentials the day before holidays. Most shops
+                close completely!
+              </p>
+            </div>
+
+            <!-- Transport Tip -->
+            <div class="text-center">
+              <div
+                class="w-16 h-16 bg-gradient-to-r from-green-500 to-emerald-600 rounded-2xl flex items-center justify-center mx-auto mb-4"
+              >
+                <svg
+                  class="w-8 h-8 text-white"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4"
+                  ></path>
+                </svg>
+              </div>
+              <h4 class="text-lg font-semibold text-gray-900 mb-2">
+                Limited Transport
+              </h4>
+              <p class="text-gray-600 text-sm">
+                Metro and buses run on reduced schedules. Check TMB app for
+                holiday timetables!
+              </p>
+            </div>
+
+            <!-- Restaurant Tip -->
+            <div class="text-center">
+              <div
+                class="w-16 h-16 bg-gradient-to-r from-orange-500 to-red-600 rounded-2xl flex items-center justify-center mx-auto mb-4"
+              >
+                <svg
+                  class="w-8 h-8 text-white"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
+                  ></path>
+                </svg>
+              </div>
+              <h4 class="text-lg font-semibold text-gray-900 mb-2">
+                Book Restaurants
+              </h4>
+              <p class="text-gray-600 text-sm">
+                Popular restaurants get packed during holidays. Make
+                reservations in advance!
+              </p>
+            </div>
+          </div>
+
+          <!-- Special Holiday Highlight -->
+          <div
+            class="mt-12 bg-gradient-to-r from-yellow-100 to-orange-100 rounded-2xl p-6 border border-yellow-200"
+          >
+            <div class="flex items-start space-x-4">
+              <div class="text-4xl">🔥</div>
+              <div>
+                <h4 class="text-xl font-bold text-gray-900 mb-2">
+                  Sant Joan (June 24) - The MUST Experience Holiday!
+                </h4>
+                <p class="text-gray-700 leading-relaxed">
+                  This is THE holiday you absolutely cannot miss! The entire
+                  city heads to the beach for massive bonfires, fireworks, and
+                  all-night parties. It's like New Year's Eve but on the beach
+                  with fire! 🎆 Bring friends, snacks, and prepare for the most
+                  magical night in Barcelona. Pro tip: Claim your beach spot
+                  early!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
   <Footer />
 </template>
