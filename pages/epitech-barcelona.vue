@@ -3,7 +3,7 @@
     <Header />
 
     <!-- Hero Section -->
-    <section class="py-16 lg:py-20">
+    <section class="py-10 lg:py-7">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
           <div
@@ -51,11 +51,14 @@
             </p>
           </div>
           <div class="relative overflow-hidden rounded-3xl shadow-2xl">
-            <img
-              src="/Campus-EPITECH-Bcn.png"
-              alt="EPITECH Barcelona Campus"
-              class="w-full lg:h-[650px]"
-            />
+            <video
+              src="/epitech-barcelona-campus.mp4"
+              autoplay
+              loop
+              muted
+              playsinline
+              class="w-full lg:h-[650px] object-cover"
+            ></video>
             <div
               class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"
             ></div>
@@ -157,8 +160,33 @@
                       </svg>
                     </div>
                     <p class="text-gray-700">
-                      <strong>Epic Events:</strong> From welcome parties to
-                      coding competitions, they make campus life amazing!
+                      <strong>Activities:</strong> From volleyball, Marathons to
+                      Foosball all the way to even Chess tournaments, we want to
+                      keep our students active.
+                    </p>
+                  </div>
+                  <div class="flex items-start space-x-3">
+                    <div
+                      class="flex-shrink-0 w-6 h-6 bg-gradient-to-r from-orange-500 to-red-500 rounded-full flex items-center justify-center"
+                    >
+                      <svg
+                        class="w-3 h-3 text-white"
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          stroke-width="2"
+                          d="M5 13l4 4L19 7"
+                        ></path>
+                      </svg>
+                    </div>
+                    <p class="text-gray-700">
+                      <strong>Epic events:</strong> They organize BBQs, Karting
+                      tournaments, Cinema nights and you definitely shouldn't
+                      miss the infinite game nights!
                     </p>
                   </div>
                   <div class="flex items-start space-x-3">
@@ -669,7 +697,7 @@
         <div
           class="mt-16 bg-gradient-to-r from-gray-50 to-blue-50 rounded-3xl p-8 lg:p-12"
         >
-          <div class="text-center mb-8">
+          <div class="text-center mb-2">
             <h3 class="text-2xl font-bold text-gray-900 mb-2">
               Our Values in Action
             </h3>
